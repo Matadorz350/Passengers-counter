@@ -10,7 +10,7 @@ body {
     text-align: center;
 }
 
-.counter {
+#counter {
     width: 40%;
     max-width: 35em;
     min-width: 15em;
