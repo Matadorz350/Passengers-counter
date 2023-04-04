@@ -1,6 +1,7 @@
 body {
     background-image: url("images/juan-encalada-6mcVaoGNz1w-unsplash.jpg");
     background-size: cover;
+    overflow: hidden;
     margin: 0; 
     height: 100vh;
     background-repeat: no-repeat;
@@ -9,7 +10,7 @@ body {
     text-align: center;
 }
 
-#counter {
+.counter {
     width: 40%;
     max-width: 35em;
     min-width: 15em;
